@@ -1,0 +1,53 @@
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\Image Comparison.exe.config
+C:\Users\user\Desktop\Image Comparison\Image Comparison\obj\Release\Image_Comparison.Form1.resources
+C:\Users\user\Desktop\Image Comparison\Image Comparison\obj\Release\Image_Comparison.Properties.Resources.resources
+C:\Users\user\Desktop\Image Comparison\Image Comparison\obj\Release\Image Comparison.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\Image Comparison.exe
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\Image Comparison.pdb
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.Controls.dll
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.dll
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.Imaging.dll
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.Imaging.Formats.dll
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.Math.dll
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.Video.dll
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.xml
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.Controls.xml
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.Imaging.xml
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.Imaging.Formats.xml
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.Math.xml
+C:\Users\user\Desktop\Image Comparison\Image Comparison\bin\Release\AForge.Video.xml
+C:\Users\user\Desktop\Image Comparison\Image Comparison\obj\Release\Image Comparison.exe
+C:\Users\user\Desktop\Image Comparison\Image Comparison\obj\Release\Image Comparison.pdb
+C:\Users\user\Desktop\Image Comparison\Image Comparison\obj\Release\Image Comparison.csprojResolveAssemblyReference.cache
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\Image Comparison.exe.config
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image Comparison.exe
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image Comparison.pdb
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\Image Comparison.exe
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\Image Comparison.pdb
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Video.dll
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.xml
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Controls.xml
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Imaging.xml
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Imaging.Formats.xml
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Math.xml
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Video.xml
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image Comparison.csprojResolveAssemblyReference.cache
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image_Comparison.Form1.resources
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image_Comparison.Properties.Resources.resources
+C:\Users\TB.TEC\Dropbox\2015-2016-1\Machine vision\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image Comparison.csproj.GenerateResource.Cache
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\Image Comparison.exe.config
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\Image Comparison.exe
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\Image Comparison.pdb
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Video.dll
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Controls.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Imaging.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Imaging.Formats.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Math.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\bin\Release\AForge.Video.xml
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image Comparison.csprojResolveAssemblyReference.cache
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image_Comparison.Form1.resources
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image_Comparison.Properties.Resources.resources
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image Comparison.csproj.GenerateResource.Cache
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image Comparison.exe
+C:\Users\the-g\Documents\Visual Studio 2017\Projects\Our assignment final\The-Engineers\The Engineers\Image Comparison\obj\Release\Image Comparison.pdb
